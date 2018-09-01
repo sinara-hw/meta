@@ -1,5 +1,4 @@
-# meta
-Meta-Project for Sinara.  
+# Sinara Meta Issues
 
 This is the place for Sinara management, inter-board design, incubator for new projects, etc.
 
